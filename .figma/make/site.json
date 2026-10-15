@@ -1,0 +1,10 @@
+{
+  "description": "Showcasing Matco Energy Holdings, this premium website highlights their integrated energy solutions for Bangladesh, emphasizing professionalism and investor engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
